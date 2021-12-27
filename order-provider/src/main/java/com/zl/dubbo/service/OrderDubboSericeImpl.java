@@ -7,7 +7,7 @@ import com.zl.dubbo.orderapi.service.OrderDubboService;
 
 /**
  *
- * @author wangzhongling@kkworld.com
+ * @author zl
  * @date 2021/12/20
  */
 @Service()

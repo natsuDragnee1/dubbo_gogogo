@@ -2,7 +2,7 @@ package com.zl.dubbo.orderapi.model;
 
 /**
  *
- * @author wangzhongling@kkworld.com
+ * @author zl
  * @date 2021/12/20
  */
 public enum ResultCodeEnum {

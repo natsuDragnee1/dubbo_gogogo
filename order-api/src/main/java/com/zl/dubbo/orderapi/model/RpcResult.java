@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author wangzhongling@kkworld.com
+ * @author zl
  * @date 2021/12/20
  */
 public class RpcResult<T> implements Serializable {
